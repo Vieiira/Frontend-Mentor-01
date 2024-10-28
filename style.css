@@ -1,17 +1,26 @@
 body{
     background-color:hsl(212, 45%, 89%) ;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 img{
     width: 400px;
     height: 400px;
-    border-radius: 3em;
+    border-radius: 5em;
+    padding-top: 20px;
 }
 
 
 .container{
     display: flex;
     justify-content: center;
-    align-items: center;
+}
+
+.fundo{
+   background-color: hsl(0, 0%, 100%);
+   
 }
 
 
