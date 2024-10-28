@@ -1,7 +1,8 @@
-@import url(https://fonts.google.com/specimen/Outfit);
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 
 *{
+    font-family: outfit;
     text-align: center;
     
     margin: 0;
@@ -9,4 +10,8 @@
 
     font-size: 15px;
 }
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
 

@@ -1,3 +1,23 @@
-.attribution { font-size: 11px; text-align: center; }
+body{
+    background-color:hsl(212, 45%, 89%) ;
+}
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 3em;
+}
 
-.attribution a { color: hsl(228, 45%, 44%); }
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
